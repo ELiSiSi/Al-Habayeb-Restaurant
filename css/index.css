@@ -1,5 +1,5 @@
 :root {
-  --main-color: #000000;
+  --main-color:#6C090B;
   --secondary-color: #FFD700;
 }
 
@@ -94,7 +94,7 @@ body {
 .profile {
   background-color: var(--main-color);
   text-align: center;
-  color: #FFD700;
+  color: #f4f3ef;
   padding-top: 20px;
    padding-bottom: 20px;
 }
